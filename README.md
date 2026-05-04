@@ -36,17 +36,60 @@
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat-square)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-8B5CF6?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-**前端**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
+**設計 & 分析**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![系統分析](https://img.shields.io/badge/系統分析-UML_/_DFD-6366f1?style=flat-square)
+![資料庫設計](https://img.shields.io/badge/資料庫設計-ERD-0ea5e9?style=flat-square)
 
 ---
 
 ## 🚀 專案作品
+
+---
+
+### 📋 保險管理系統 · 系統分析與設計
+> 課程專題 | 系統分析與設計 · 1122學期
+
+以保險公司業務管理為核心，進行完整的系統分析與設計，涵蓋需求訪談、UML 建模、資料庫設計至 UI Prototype。
+
+**系統架構**
+
+![系統架構圖](./images/system-architecture.png)
+
+多角色架構設計，支援客戶、業務員、核保人員、公司上級四種角色，透過 Internet 連接至統一 Server 與資料庫。
+
+**使用案例分析**
+
+![使用案例圖](./images/use-case.png)
+
+完整的 Use Case 分析，涵蓋業務員、上級業務員、核保人員、客戶、公司內部人員五種角色的功能需求。
+
+**資料流程圖（DFD）**
+
+![整體DFD](./images/dfd.png)
+
+整體 DFD 呈現各角色與系統間的資料流動關係，包含業務、客戶、公司人員、核保人員之間的互動流程。
+
+**資料庫設計**
+
+![資料庫ERD](./images/database-erd.png)
+
+設計 10+ 張資料表，包含客戶表、業務資料表、要保書資料表、保單資料表、訪談紀錄資料表等，並定義完整的外鍵關聯。
+
+**UI Prototype**
+
+![系統介面 - 行事曆](./images/ui-calendar.png)
+![系統介面 - 新增活動](./images/ui-event.png)
+
+以 Figma 設計完整 UI Prototype，包含行事曆、客戶列表、要保書、晉升申請等頁面。
+
+🔗 **[查看 Figma Prototype](https://www.figma.com/proto/vCFZ8nvaJR07v2F4QrN5PW/SAD-%E6%95%B4%E5%90%88?node-id=0-1&t=NR7vkOkcLwLvQ2pw-1)**
+
+**技術與工具**  
+`系統分析` `UML` `DFD` `ERD` `資料庫設計` `Figma` `使用者需求訪談`
+
+---
 
 ### 🔍 RAG 知識問答系統
 > 上傳文件 → 向量索引 → 自然語言問答，完全本地端運行
@@ -61,26 +104,8 @@
 > 自動爬取多個新聞來源，AI 生成繁體中文摘要
 
 - 技術：`Python` `Flask` `BeautifulSoup4` `RSS Feed` `Ollama`
-- 特色：同時爬取 BBC 中文、科技新報、iThome、數位時代，去重後逐篇 AI 摘要
+- 特色：同時爬取 BBC 中文、科技新報、iThome 等來源，逐篇 AI 摘要
 - [→ 查看程式碼](https://github.com/Peter930427/news-digest)
-
----
-
-### 💰 個人支出追蹤系統
-> 全端 CRUD 應用，紀錄與分析個人財務
-
-- 技術：`Python` `Flask` `SQLite` `HTML/CSS/JS`
-- 特色：關聯式資料庫設計、資料完整性控制、視覺化圖表
-- [→ 查看程式碼](https://github.com/Peter930427/expense-tracker)
-
----
-
-### 📊 公開資料視覺化儀表板
-> 將台灣政府開放資料轉化為互動式圖表
-
-- 技術：`JavaScript` `Chart.js` `data.gov.tw API`
-- 特色：無後端，純前端資料串接與視覺化展示
-- [→ 查看程式碼](https://github.com/Peter930427/open-data-dashboard)
 
 ---
 
@@ -88,13 +113,9 @@
 
 ![薛閔容's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter930427&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Peter930427&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 ## 📫 聯絡我
-
-有任何機會或想法，歡迎聯繫！  
 
 | 管道 | 連結 |
 |------|------|
