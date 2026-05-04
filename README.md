@@ -2,7 +2,7 @@
 
 > 資訊管理學系 · 對新技術與系統開發充滿熱忱的大學生
 
-[![個人網站](https://img.shields.io/badge/🌐_個人網站-Peter930427.github.io-38bdf8?style=flat-square)](https://Peter930427.github.io/my-web)
+[![個人網站](https://img.shields.io/badge/🌐_個人網站-Peter930427.github.io-38bdf8?style=flat-square)](https://peter930427.github.io/my-web/portfolio/)
 [![Email](https://img.shields.io/badge/📮_Email-your@email.com-64748b?style=flat-square)](mailto:your@email.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-薛閔容-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
 [![Instagram](https://img.shields.io/badge/Instagram-@your--handle-E4405F?style=flat-square&logo=instagram)](https://instagram.com/your-handle)
