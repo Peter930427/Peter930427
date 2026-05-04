@@ -55,32 +55,32 @@
 
 **系統架構**
 
-![系統架構圖](./images/system-architecture.png)
+![系統架構圖](systemstructure.png)
 
 多角色架構設計，支援客戶、業務員、核保人員、公司上級四種角色，透過 Internet 連接至統一 Server 與資料庫。
 
 **使用案例分析**
 
-![使用案例圖](./images/use-case.png)
+![使用案例圖](usecase.png)
 
 完整的 Use Case 分析，涵蓋業務員、上級業務員、核保人員、客戶、公司內部人員五種角色的功能需求。
 
 **資料流程圖（DFD）**
 
-![整體DFD](./images/dfd.png)
+![整體DFD](dfd.png)
 
 整體 DFD 呈現各角色與系統間的資料流動關係，包含業務、客戶、公司人員、核保人員之間的互動流程。
 
 **資料庫設計**
 
-![資料庫ERD](./images/database-erd.png)
+![資料庫ERD](dbdesign2.png)
 
 設計 10+ 張資料表，包含客戶表、業務資料表、要保書資料表、保單資料表、訪談紀錄資料表等，並定義完整的外鍵關聯。
 
 **UI Prototype**
 
-![系統介面 - 行事曆](./images/ui-calendar.png)
-![系統介面 - 新增活動](./images/ui-event.png)
+![系統介面 - 行事曆](view1.png)
+![系統介面 - 新增活動](view2.png)
 
 以 Figma 設計完整 UI Prototype，包含行事曆、客戶列表、要保書、晉升申請等頁面。
 
