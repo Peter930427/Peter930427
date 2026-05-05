@@ -104,24 +104,6 @@
 
 **技術與工具**  
 `Unity` `Photopea` `Android app` `C#` `Node.js` `MySQL`
----
-### 🔍 RAG 知識問答系統
-> 上傳文件 → 向量索引 → 自然語言問答，完全本地端運行
-
-- 技術：`Python` `Flask` `LlamaIndex` `Ollama llama3.2`
-- 特色：不需 API Key，本地 LLM 驅動，支援 PDF / TXT / MD 文件
-- [→ 查看程式碼](https://github.com/Peter930427/rag-qa)
-
----
-
-### 📰 新聞摘要機器人
-> 自動爬取多個新聞來源，AI 生成繁體中文摘要
-
-- 技術：`Python` `Flask` `BeautifulSoup4` `RSS Feed` `Ollama`
-- 特色：同時爬取 BBC 中文、科技新報、iThome 等來源，逐篇 AI 摘要
-- [→ 查看程式碼](https://github.com/Peter930427/news-digest)
-
----
 
 ## 📈 GitHub Stats
 
@@ -133,10 +115,10 @@
 
 | 管道 | 連結 |
 |------|------|
+| 📞 電話 | [0905412887](0905412887) |
 | 🌐 個人網站 | [Peter930427.github.io/my-web](https://Peter930427.github.io/my-web) |
-| 📧 Email | [your@email.com](mailto:@email.com) |
-| 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
-| 📸 Instagram | [@your-handle](https://instagram.com/your-handle) |
+| 📧 Email | [skrmeaning@email.com](mailto:skrmeaning@email.com) |
+| 📸 Instagram | [@xue_minrong](https://www.instagram.com/xue_minrong?igsh=MWdpNHRsYzd5bDY5bA%3D%3D&utm_source=qr) |
 
 ---
 
