@@ -159,7 +159,7 @@
 
 ## 📈 GitHub Stats
 
-![薛閔容's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter930427&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![薛閔容's GitHub Stats](https://github.com/Peter930427/Peter930427)
 
 ---
 
