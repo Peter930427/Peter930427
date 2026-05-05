@@ -27,12 +27,13 @@
 
 **資料庫**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI & 雲端**  
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
 **設計 & 分析**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -104,29 +105,33 @@
 
 ---
 
-### ☁️ 虛擬化與 Container 技術研究筆記
-> 自學研究 | 雲端基礎設施底層原理
+### ☁️ 虛擬化、Container 與 Kubernetes 技術研究筆記
+> 自學研究 | 雲端基礎設施底層原理 · 從虛擬化到容器編排
 
-深入研究現代雲端基礎設施的底層技術，涵蓋虛擬化原理、Hypervisor 架構、Container 隔離機制至 MicroVM 應用場景。
+深入研究現代雲端基礎設施的完整技術棧，從底層虛擬化原理一路向上，涵蓋 Container 隔離機制、Docker 架構，直到 Kubernetes 容器編排實作。
 
 **研究主題包含：**
-- 虛擬化原理（Type 1 / Type 2 Hypervisor、KVM、QEMU）
-- CPU Ring 架構與三種 Ring 0 衝突解法（Full Emulation、Para-virtualization、Hardware-Assisted）
-- Linux Namespace（PID、Net、Mount、UTS、IPC、User）深度解析
-- cgroup v1 / v2 資源控制機制與 OOM Killer
-- Docker 完整架構（dockerd → containerd → runc → overlayfs）
-- Container 安全機制（seccomp、Capabilities、LSM / AppArmor）
-- MicroVM 與 Kata Containers 應用場景
+
+- **虛擬化底層**：Hypervisor Type 1/2、KVM、QEMU 動態二進位翻譯（DBT / TCG）
+- **CPU 虛擬化**：Ring 架構、Full Emulation / Para-virtualization / Hardware-Assisted 三種解法
+- **記憶體 & 儲存虛擬化**：MMU、三層地址轉換（GVA → GPA → HPA）、overlayfs Copy-on-Write
+- **網路虛擬化**：SDN、VXLAN Overlay、OVS（Open vSwitch）
+- **Linux Namespace**：PID / Net / Mount / UTS / IPC / User 六種隔離機制深度解析
+- **cgroup v1 / v2**：CPU、Memory、I/O 資源控制與 OOM Killer 機制
+- **Docker 完整架構**：dockerd → containerd → runc → overlayfs 啟動流程
+- **Container 安全機制**：seccomp syscall 過濾、Capabilities 最小權限、AppArmor / SELinux
+- **MicroVM**：Firecracker 架構、Kata Containers、Serverless 應用場景
+- **Kubernetes**：使用 Kind 建立本地 Cluster，實作 Pod 部署與服務管理
 
 🔗 **[查看完整筆記（HackMD）](https://hackmd.io/@Z7oAeeHoQUyhHQ_okf3Pjw/H1ywEnIqbl)**
 
-`虛擬化` `Docker` `Linux Namespace` `cgroup` `KVM` `QEMU` `MicroVM`
+`虛擬化` `KVM` `QEMU` `Docker` `Linux Namespace` `cgroup` `MicroVM` `Kubernetes`
 
 ---
 
 ## 📈 GitHub Stats
 
-![薛閔容's GitHub Stats](https://github.com/Peter930427/Peter930427)
+![薛閔容's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter930427&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ---
 
