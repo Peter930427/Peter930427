@@ -11,7 +11,7 @@
 ## 🙋 關於我
 
 就讀**資訊管理學系**，具備系統架構設計、後端開發與資料庫設計實作經驗。  
-對 **生成式 AI、雲端運算、遊戲開發** 有濃厚興趣，喜歡把新技術轉化成實際可運作的系統。
+對 **k8s、系統設計、遊戲開發** 有濃厚興趣，喜歡把新技術轉化成實際可運作的系統。
 
 目前積極尋求**暑期實習機會**，希望在實務環境中持續學習與成長。
 
@@ -40,7 +40,6 @@
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![系統分析](https://img.shields.io/badge/系統分析-UML_/_DFD-6366f1?style=flat-square)
 
----
 
 ## 🚀 專案作品
 
@@ -89,7 +88,7 @@
 ---
 
 ### 🎯 馬伊蘇大冒險 · 零食式運動遊戲
-> 課程專題 | Unity 2.5D Isometric 手機遊戲
+> 課程專題 | Unity 2.5D Isometric 手機遊戲 · **南投縣黑客松大學組入選**
 
 結合「零食式運動」與「遊戲化設計」的數位互動遊戲，針對現代人久坐、時間零碎的問題，以低門檻高趣味性為核心。利用 Android Studio 開發原生動態感測演算法，封裝為 `.aar` 函式庫與 Unity 介接，實現精準的深蹲與開合跳動作識別。
 
@@ -129,6 +128,35 @@
 
 ---
 
+## 🏆 證書與獲獎
+
+| 類別 | 項目 | 單位 | 時間 |
+|------|------|------|------|
+| 🌐 英文能力 | Oxford Placement Test · **B2（整體）/ C1（英文運用）** | Oxford University Press | 2023.12 |
+
+![OOPT](OOPT.png)
+
+| 🎓 學程認證 | 軟體開發人才養成**學分學程**結業證書 | 國立暨南國際大學 | 2025.06 |
+
+![軟體開發證書](Softwarecertificate.png)
+
+| 🏅 競賽入選 | **南投縣黑客松**大學組入選 — 馬伊蘇大冒險 | 南投縣政府 | 2025 |
+
+![Hackson](Hackson.png)
+
+| 🤖 AI 研習 | AI 創意實作：探索南投的廉能未來 結訓證書 | 南投縣政府 | 2025.07 |
+
+![AIresearch](AIcamp.png)
+
+| 🔒 資安培訓 | 教育部先進資通安全實務人才培育計畫 — **2024 中區資安體驗營** | 教育部 / AIS3 CLUB | 2024.10 |
+
+![IS](AIS3.png)
+
+| 📋 產學合作 | 日月潭觀光旅遊網站內容檢視計畫 — **交通部觀光署正式委託** | 交通部觀光署 | 2025 |
+
+![sunmoonlake](sunmoonlakeanalyze.pngpng)
+---
+
 ## 📈 GitHub Stats
 
 ![薛閔容's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peter930427&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
@@ -144,7 +172,3 @@
 | 📸 Instagram | [@xue_minrong](https://www.instagram.com/xue_minrong) |
 
 ---
-
-<p align="center">
-  <i>「對技術保持好奇，對學習保持開放。」</i>
-</p>
