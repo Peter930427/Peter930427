@@ -3,9 +3,8 @@
 > 資訊管理學系 · 對新技術與系統開發充滿熱忱的大學生
 
 [![個人網站](https://img.shields.io/badge/🌐_個人網站-Peter930427.github.io-38bdf8?style=flat-square)](https://peter930427.github.io/my-web/portfolio/)
-[![Email](https://img.shields.io/badge/📮_Email-your@email.com-64748b?style=flat-square)](mailto:your@email.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-薛閔容-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Instagram](https://img.shields.io/badge/Instagram-@your--handle-E4405F?style=flat-square&logo=instagram)](https://instagram.com/your-handle)
+[![Email](https://img.shields.io/badge/📮_Email-skrmeaning@gmail.com-64748b?style=flat-square)](mailto:skrmeaning@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@xue__minrong-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/xue_minrong)
 
 ---
 
@@ -23,21 +22,22 @@
 **後端 & 系統**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-4B8BBE?style=flat-square)
 
 **資料庫**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI & 雲端**  
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 **設計 & 分析**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![系統分析](https://img.shields.io/badge/系統分析-UML_/_DFD-6366f1?style=flat-square)
-![資料庫設計](https://img.shields.io/badge/資料庫設計-ERD-0ea5e9?style=flat-square)
 
 ---
 
@@ -83,27 +83,46 @@
 
 🔗 **[查看 Figma Prototype](https://www.figma.com/proto/vCFZ8nvaJR07v2F4QrN5PW/SAD-%E6%95%B4%E5%90%88?node-id=0-1&t=NR7vkOkcLwLvQ2pw-1)**
 
-**技術與工具**  
-`系統分析` `UML` `DFD` `ERD` `資料庫設計` `Figma` `使用者需求訪談`
+`系統分析` `UML` `DFD` `ERD` `資料庫設計` `Figma`
 
 ---
 
-### 🎯 零食式運動遊戲設計
+### 🎯 馬伊蘇大冒險 · 零食式運動遊戲
+> 課程專題 | Unity 2.5D Isometric 手機遊戲
 
-本專題旨在開發一款結合「零食式運動」與「遊戲化設計」，並強調「由線下到線上」整合體驗的數位互動遊戲《馬伊蘇大冒險（MaISu Adventure）》，針對現代人久坐、時間零碎與缺乏運動動機等問題，提出以低門檻、高趣味性為核心的數位解決方案。系統開發上，前端採用 Unity 6 引擎建構 2.5D Isometric 場景，後端以 Node.js 與 MySQL 搭建資料架構，技術亮點在於團隊利用 Android Studio 開發原生動態感測演算法，並封裝為 .aar 函式庫與 Unity 介接，實現精準的深蹲與開合跳動作識別。
+結合「零食式運動」與「遊戲化設計」的數位互動遊戲，針對現代人久坐、時間零碎的問題，以低門檻高趣味性為核心。利用 Android Studio 開發原生動態感測演算法，封裝為 `.aar` 函式庫與 Unity 介接，實現精準的深蹲與開合跳動作識別。
 
 ![宣傳海報](maisuintro.jpg)
 
- 在遊戲內我們以右圖畫面中名為''Maisu''的主角來帶領著使用者探索地圖，以三大運動核心走路、深蹲、開合跳讓使用者透過拿著手機做運動來累積遊戲中的冒險點數，在遊戲中使用這些點數來探索整個地圖。
+以暨南國際大學為地圖場景，玩家透過拿著手機做運動（走路、深蹲、開合跳）累積冒險點數，探索整個地圖。
 
 ![遊玩方式](gameplay.png)
 
-我們以暨南國際大學為地圖，讓在玩遊戲的同時可以欣賞到大自然的美而且也增加這個地區的整體曝光率
+![暨大場景對照](NCNUscene.png)
 
-![暨大風景對照](NCNUscene.png)
+`Unity 6` `C#` `Android Studio` `Node.js` `MySQL` `2.5D Isometric`
 
-**技術與工具**  
-`Unity` `Photopea` `Android app` `C#` `Node.js` `MySQL`
+---
+
+### ☁️ 虛擬化與 Container 技術研究筆記
+> 自學研究 | 雲端基礎設施底層原理
+
+深入研究現代雲端基礎設施的底層技術，涵蓋虛擬化原理、Hypervisor 架構、Container 隔離機制至 MicroVM 應用場景。
+
+**研究主題包含：**
+- 虛擬化原理（Type 1 / Type 2 Hypervisor、KVM、QEMU）
+- CPU Ring 架構與三種 Ring 0 衝突解法（Full Emulation、Para-virtualization、Hardware-Assisted）
+- Linux Namespace（PID、Net、Mount、UTS、IPC、User）深度解析
+- cgroup v1 / v2 資源控制機制與 OOM Killer
+- Docker 完整架構（dockerd → containerd → runc → overlayfs）
+- Container 安全機制（seccomp、Capabilities、LSM / AppArmor）
+- MicroVM 與 Kata Containers 應用場景
+
+🔗 **[查看完整筆記（HackMD）](https://hackmd.io/@Z7oAeeHoQUyhHQ_okf3Pjw/H1ywEnIqbl)**
+
+`虛擬化` `Docker` `Linux Namespace` `cgroup` `KVM` `QEMU` `MicroVM`
+
+---
 
 ## 📈 GitHub Stats
 
@@ -115,10 +134,9 @@
 
 | 管道 | 連結 |
 |------|------|
-| 📞 電話 | [0905412887](0905412887) |
-| 🌐 個人網站 | [Peter930427.github.io/my-web](https://Peter930427.github.io/my-web) |
-| 📧 Email | [skrmeaning@email.com](mailto:skrmeaning@email.com) |
-| 📸 Instagram | [@xue_minrong](https://www.instagram.com/xue_minrong?igsh=MWdpNHRsYzd5bDY5bA%3D%3D&utm_source=qr) |
+| 🌐 個人網站 | [peter930427.github.io/my-web](https://peter930427.github.io/my-web/portfolio/) |
+| 📧 Email | [skrmeaning@gmail.com](mailto:skrmeaning@gmail.com) |
+| 📸 Instagram | [@xue_minrong](https://www.instagram.com/xue_minrong) |
 
 ---
 
