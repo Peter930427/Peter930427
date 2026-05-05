@@ -154,10 +154,10 @@
 
 | 📋 產學合作 | 日月潭觀光旅遊網站內容檢視計畫 — **交通部觀光署正式委託** | 交通部觀光署 | 2025 |
 
-![sunmoonlake](sunmoonlakeanalyze.pngpng)
+![sunmoonlake](sunmoonlakeanalyze.png)
 ---
 
-## 📈 GitHub Stats
+## 📉 GitHub Stats
 
 ![薛閔容's GitHub Stats](https://github.com/Peter930427/Peter930427)
 
