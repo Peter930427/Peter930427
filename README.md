@@ -12,7 +12,7 @@
 ## 🙋 關於我
 
 就讀**資訊管理學系**，具備系統架構設計、後端開發與資料庫設計實作經驗。  
-對 **生成式 AI、雲端運算、RAG 技術** 有濃厚興趣，喜歡把新技術轉化成實際可運作的系統。
+對 **生成式 AI、雲端運算、遊戲開發** 有濃厚興趣，喜歡把新技術轉化成實際可運作的系統。
 
 目前積極尋求**暑期實習機會**，希望在實務環境中持續學習與成長。
 
@@ -28,14 +28,11 @@
 
 **資料庫**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 **AI & 雲端**  
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-RAG-8B5CF6?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
 **設計 & 分析**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -104,6 +101,9 @@
 我們以暨南國際大學為地圖，讓在玩遊戲的同時可以欣賞到大自然的美而且也增加這個地區的整體曝光率
 
 ![暨大風景對照](NCNUscene.png)
+
+**技術與工具**  
+`Unity` `Photopea` `Android app` `C#` `Node.js` `MySQL`
 ---
 ### 🔍 RAG 知識問答系統
 > 上傳文件 → 向量索引 → 自然語言問答，完全本地端運行
@@ -134,7 +134,7 @@
 | 管道 | 連結 |
 |------|------|
 | 🌐 個人網站 | [Peter930427.github.io/my-web](https://Peter930427.github.io/my-web) |
-| 📧 Email | [your@email.com](mailto:your@email.com) |
+| 📧 Email | [your@email.com](mailto:@email.com) |
 | 💼 LinkedIn | [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile) |
 | 📸 Instagram | [@your-handle](https://instagram.com/your-handle) |
 
