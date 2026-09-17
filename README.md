@@ -1,83 +1,87 @@
+<div align="center">
+
 # 嗨，我是薛閔容 Min-Jung Hsueh 👋
 
-> 資訊管理學系 · 對新技術與系統開發充滿熱忱的大學生
+**資訊管理學系 · 對新技術與系統開發充滿熱忱的大學生**
 
 [![個人網站](https://img.shields.io/badge/🌐_個人網站-Peter930427.github.io-38bdf8?style=flat-square)](https://peter930427.github.io/my-web/portfolio/)
 [![Email](https://img.shields.io/badge/📮_Email-skrmeaning@gmail.com-64748b?style=flat-square)](mailto:skrmeaning@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-@xue__minrong-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/xue_minrong)
 
----
+</div>
+
+<br>
 
 ## 🙋 關於我
 
-就讀**資訊管理學系**，具備系統架構設計、後端開發與資料庫設計實作經驗。  
+就讀**資訊管理學系**，具備系統架構設計、後端開發與資料庫設計實作經驗。
 對 **k8s、系統設計、遊戲開發** 有濃厚興趣，喜歡把新技術轉化成實際可運作的系統。
 
 目前積極尋求**暑期實習機會**，希望在實務環境中持續學習與成長。
 
----
+<br>
 
 ## 🛠 技術能力
 
-**後端 & 系統**  
+<div align="center">
+
+**後端 & 系統**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square)
 
-**資料庫**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+**資料庫**
 
-**AI & 雲端**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI & 雲端**
+
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-LLM-black?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-**設計 & 分析**  
+**設計 & 分析**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![系統分析](https://img.shields.io/badge/系統分析-UML_/_DFD-6366f1?style=flat-square)
 
+</div>
+
+<br>
 
 ## 🚀 專案作品
-
----
 
 ### 📋 保險管理系統 · 系統分析與設計
 > 課程專題 | 系統分析與設計 · 1122學期
 
 以保險公司業務管理為核心，進行完整的系統分析與設計，涵蓋需求訪談、UML 建模、資料庫設計至 UI Prototype。
 
-**系統架構**
+<table>
+<tr>
+<td width="50%"><b>系統架構</b><br><img src="systemstructure.png" width="100%"></td>
+<td width="50%"><b>使用案例分析</b><br><img src="usecase.png" width="100%"></td>
+</tr>
+<tr>
+<td width="50%"><b>資料流程圖（DFD）</b><br><img src="dfd.png" width="100%"></td>
+<td width="50%"><b>資料庫設計（ERD）</b><br><img src="dbdesign2.png" width="100%"></td>
+</tr>
+</table>
 
-![系統架構圖](systemstructure.png)
-
-多角色架構設計，支援客戶、業務員、核保人員、公司上級四種角色，透過 Internet 連接至統一 Server 與資料庫。
-
-**使用案例分析**
-
-![使用案例圖](usecase.png)
-
-完整的 Use Case 分析，涵蓋業務員、上級業務員、核保人員、客戶、公司內部人員五種角色的功能需求。
-
-**資料流程圖（DFD）**
-
-![整體DFD](dfd.png)
-
-整體 DFD 呈現各角色與系統間的資料流動關係，包含業務、客戶、公司人員、核保人員之間的互動流程。
-
-**資料庫設計**
-
-![資料庫ERD](dbdesign2.png)
-
-設計 10+ 張資料表，包含客戶表、業務資料表、要保書資料表、保單資料表、訪談紀錄資料表等，並定義完整的外鍵關聯。
+多角色架構設計，支援客戶、業務員、核保人員、公司上級四種角色；完整 Use Case 涵蓋五種角色的功能需求；DFD 呈現各角色與系統間的資料流動；資料庫設計 10+ 張資料表並定義完整外鍵關聯。
 
 **UI Prototype**
 
-![系統介面 - 行事曆](view1.png)
-![系統介面 - 新增活動](view2.png)
+<table>
+<tr>
+<td width="50%"><img src="view1.png" width="100%"><p align="center">行事曆</p></td>
+<td width="50%"><img src="view2.png" width="100%"><p align="center">新增活動</p></td>
+</tr>
+</table>
 
 以 Figma 設計完整 UI Prototype，包含行事曆、客戶列表、要保書、晉升申請等頁面。
 
@@ -92,13 +96,16 @@
 
 結合「零食式運動」與「遊戲化設計」的數位互動遊戲，針對現代人久坐、時間零碎的問題，以低門檻高趣味性為核心。利用 Android Studio 開發原生動態感測演算法，封裝為 `.aar` 函式庫與 Unity 介接，實現精準的深蹲與開合跳動作識別。
 
-![宣傳海報](maisuintro.jpg)
+<p align="center"><img src="maisuintro.jpg" width="80%"></p>
 
 以暨南國際大學為地圖場景，玩家透過拿著手機做運動（走路、深蹲、開合跳）累積冒險點數，探索整個地圖。
 
-![遊玩方式](gameplay.png)
-
-![暨大場景對照](NCNUscene.png)
+<table>
+<tr>
+<td width="50%"><img src="gameplay.png" width="100%"><p align="center">遊玩方式</p></td>
+<td width="50%"><img src="NCNUscene.png" width="100%"><p align="center">暨大場景對照</p></td>
+</tr>
+</table>
 
 `Unity 6` `C#` `Android Studio` `Node.js` `MySQL` `2.5D Isometric`
 
@@ -126,63 +133,45 @@
 
 `虛擬化` `KVM` `QEMU` `Docker` `Linux Namespace` `cgroup` `MicroVM` `Kubernetes`
 
----
+<br>
 
 ## 🏆 證書與獲獎
 
 | 類別 | 項目 | 單位 | 時間 |
 |------|------|------|------|
 | 🌐 英文能力 | Oxford Placement Test · **B2（整體）/ C1（英文運用）** | Oxford University Press | 2023.12 |
-
-![OOPT](OOPT.png)
-
 | 🎓 學程認證 | 軟體開發人才養成**學分學程**結業證書 | 國立暨南國際大學 | 2025.06 |
-
-![軟體開發證書](Softwarecertificate.png)
-
 | 🏅 競賽入選 | **南投縣黑客松**大學組入選 — 馬伊蘇大冒險 | 南投縣政府 | 2025 |
-
-![Hackson](Hackson.png)
-
 | 🤖 AI 研習 | AI 創意實作：探索南投的廉能未來 結訓證書 | 南投縣政府 | 2025.07 |
-
-![AIresearch](AIcamp.png)
-
 | 🔒 資安培訓 | 教育部先進資通安全實務人才培育計畫 — **2024 中區資安體驗營** | 教育部 / AIS3 CLUB | 2024.10 |
-
-![IS](AIS3.png)
-
 | 📋 產學合作 | 日月潭觀光旅遊網站內容檢視計畫 — **交通部觀光署正式委託** | 交通部觀光署 | 2025 |
-
-![sunmoonlake](sunmoonlakeanalyze.png)
-
 | 🤖 AI 能力鑑定 | 經濟部產業人才能力鑑定 — **AI應用規劃師初級能力鑑定** | 經濟部 / 工業技術研究院 | 2026.09 |
-
-![AI應用規劃師證書](AIplanner_certificate.png)
-
 | 🐧 Linux 認證 | Linux Unhatched 結業證書 | Cisco Networking Academy / NDG | 2026.08 |
 
-![Linux Unhatched證書](Linux_certificate.png)
+<table>
+<tr>
+<td width="50%"><img src="OOPT.png" width="100%"><p align="center">Oxford Placement Test</p></td>
+<td width="50%"><img src="Softwarecertificate.png" width="100%"><p align="center">軟體開發學分學程結業證書</p></td>
+</tr>
+<tr>
+<td width="50%"><img src="Hackson.png" width="100%"><p align="center">南投縣黑客松入選</p></td>
+<td width="50%"><img src="AIcamp.png" width="100%"><p align="center">AI 創意實作結訓證書</p></td>
+</tr>
+<tr>
+<td width="50%"><img src="AIS3.png" width="100%"><p align="center">2024 中區資安體驗營</p></td>
+<td width="50%"><img src="sunmoonlakeanalyze.png" width="100%"><p align="center">日月潭觀光旅遊網站產學合作</p></td>
+</tr>
+<tr>
+<td width="50%"><img src="AIplanner_certificate.png" width="100%"><p align="center">AI 應用規劃師初級能力鑑定</p></td>
+<td width="50%"><img src="Linux_certificate.png" width="100%"><p align="center">Linux Unhatched 結業證書</p></td>
+</tr>
+</table>
 
----
-
-## 📉 GitHub Stats
-
-![薛閔容's GitHub Stats](https://github.com/Peter930427/Peter930427)
-
----
-
-
-## 歷年成績單
-
-![grade](grade.png)
-
----
-
-
-
+<br>
 
 ## 📫 聯絡我
+
+<div align="center">
 
 | 管道 | 連結 |
 |------|------|
@@ -190,4 +179,4 @@
 | 📧 Email | [skrmeaning@gmail.com](mailto:skrmeaning@gmail.com) |
 | 📸 Instagram | [@xue_minrong](https://www.instagram.com/xue_minrong) |
 
----
+</div>
