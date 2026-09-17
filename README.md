@@ -156,6 +156,14 @@
 
 ![sunmoonlake](sunmoonlakeanalyze.png)
 
+| 🤖 AI 能力鑑定 | 經濟部產業人才能力鑑定 — **AI應用規劃師初級能力鑑定** | 經濟部 / 工業技術研究院 | 2026.09 |
+
+![AI應用規劃師證書](AIplanner_certificate.png)
+
+| 🐧 Linux 認證 | Linux Unhatched 結業證書 | Cisco Networking Academy / NDG | 2026.08 |
+
+![Linux Unhatched證書](Linux_certificate.png)
+
 ---
 
 ## 📉 GitHub Stats
